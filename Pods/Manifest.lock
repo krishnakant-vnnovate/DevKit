@@ -1,0 +1,20 @@
+PODS:
+  - Dwifft (0.9)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - Dwifft
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - Dwifft
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Dwifft: 42912068ed2a8146077d1a1404df18625bd086e1
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 222d029192a7949738814f058c116c19b60f7050
+
+COCOAPODS: 1.9.3
